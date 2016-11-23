@@ -37,3 +37,9 @@ SysAdmin Ankara etkinliklerinden gelen geri bildirimler.
 * Engür
 	* Tematik etkinlikler olmalı. ( Bu ay SDN konuşuyoruz, falanca ay High Availability konuşuyoruz gibi.)
 	* Fazla reklam yapmadan Arge firmaları ve süreçleri tanıtılsın.
+	
+* Özgür
+	* slack vs gibi şeylere geçmek iletişimi dağıtabiliyor, mail grubu + meetup yeterli bence
+        * web sayfasında dökümanlara yer verebiliriz, özellikle mail grubunda ki tartışmalarda paylaşılan faydalı döküman, link vs web sayfasına eklenebilir. Böylece mail tartışmasından bağımsız bir içerik havuzu oluşur. (örneğin hararetli bir scability tartışmasında güzel dökümanlar paylaşılmıştır, bunlar aradan web sitesine yüklenir bulmak kolaylaşır vs)
+	* 
+	
